@@ -2,8 +2,8 @@
 <h1 align="center">Hi, I am <a href="https://linktr.ee/imoliversp">Oliver Silva</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 </div>
 
-<p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG45eTl3ZXpneGE3Nmg2b2hveGJzbXZmNW5iaGg3N2ZiOTNmdG1uNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UaaLwqiO8R8XitszQv/giphy.gif"width="1920">
+<p>
+<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG45eTl3ZXpneGE3Nmg2b2hveGJzbXZmNW5iaGg3N2ZiOTNmdG1uNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UaaLwqiO8R8XitszQv/giphy.gif" width="1920">
 </p>
 
 <p align="center">
