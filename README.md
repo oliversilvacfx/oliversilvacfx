@@ -46,7 +46,7 @@ Available for work & collaboration, to start immediately!
 
 Email: oliversp_art@outlook.com
 
-Find me anywere as @imoliversp
+Find me anywhere as @imoliversp
 <br>
 
 ## Check my work
