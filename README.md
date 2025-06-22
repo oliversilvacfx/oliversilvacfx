@@ -14,7 +14,7 @@
   <a href="mailto:oliversp_art@outlook.com"><img alt="Email" title="oliversp_art@outlook.com" src="https://img.shields.io/badge/Email-eb4034?style=for-the-badge&logo=emial&logoColor=black"/></a>
 </p>
 
-## About me
+## 🙋‍♂ About me
 
 Hi, I'm Oliver. I’m an aspiring <strong>Character FX Artist</strong> with a strong foundation in CFX and the Animation Industry, currently building experience in <strong>Technical Animation</strong> through personal projects and professional training.
 
@@ -22,34 +22,32 @@ For most of my career I've worked as a 3D Modeler Artist, and recently I've been
 
 I specialize in <strong>CFX</strong> and <strong>Python</strong> tool development focused on creating tools that help both myself and the CFX community. I'm currently seeking opportunities to apply and grow these skills.
 
-<strong>Oliver in Numbers:</strong>
-- 1 Experience in the Feature Animation Film Industry (as 3D Model Artist).
-- 1 Feature (credited), 1 upcoming Trailer, 1 Short Film, 1 upcoming Short Film and several commissions.
-- 1 Time CFX Artist, 4 Times 3D Modeler.
+👋 <strong>Oliver in Numbers</strong>
+- 🎬 1 Experience in the Feature Animation Film Industry (as 3D Model Artist).
+- 🍿 1 Feature (credited), 1 upcoming Trailer, 1 Short Film, 1 upcoming Short Film and several commissions.
+- 👨‍💻 1 Time CFX Artist, 4 Times 3D Modeler.
 
-<strong>Core Skills:</strong>
-- CFX (Cloth, Hair, Soft Body, polish)
-- Python and MEL scripting
-- 3D Character Modeling
+🦾 <strong>Core Skills</strong>
+- 👕 CFX (Cloth, Hair, Soft Body, polish)
+- 🐍 Python and MEL scripting
+- 👤 3D Character Modeling
 
-<strong>Secondary Skills:</strong>
-- 3D Prop Artist, Asset, UV and Texture creation
-- Motion Graphics and Graphic Design
-- Team supervision and Pipeline knowledge, Linux
+💪 <strong>Secondary Skills</strong>
+- 🫖 3D Prop Artist, Asset, UV and Texture creation
+- 🎞️ Motion Graphics and Graphic Design
+- 🤝 Team supervision and Pipeline knowledge, Linux
 
-<strong>Software:</strong>
+🛠️ <strong>Software</strong>
 Proficient in Maya, Houdini, Linux, Substance 3D Painter, Substance Designer, ZBrush, XGen, Quixel Bridge, ShotGrid, Mixamo, Viewport 2.0, Arnold, Adobe Suite, After Effects, Photoshop, Illustrator, Slack, Office Tools, Communication Tools.
 
-I'm currently based in Mexico but I'm open to relocation if an exciting opportunity comes. I'm also <strong>NAFTA</strong> eligible :D
+I'm currently based in Mexico but I'm open to relocation if an exciting opportunity comes. I'm also <strong>NAFTA</strong> eligible :D  
+<strong>Available</strong> for work & collaboration, to start <strong>immediately</strong>!
 
-Available for work & collaboration, to start immediately!
-
-Email: <i>oliversp_art@outlook.com</i>
-
-Find me anywhere as <i>@imoliversp</i>
+✉️ Email: <i>oliversp_art@outlook.com</i>  
+🌐 Find me anywhere as <i>@imoliversp</i>
 <br>
 
-## Check my work
+## 💼 Check my work
 <table>
 <tr>
 <td width="50%">
