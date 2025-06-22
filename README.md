@@ -3,7 +3,7 @@
 </div>
 
 <p>
-<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG45eTl3ZXpneGE3Nmg2b2hveGJzbXZmNW5iaGg3N2ZiOTNmdG1uNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UaaLwqiO8R8XitszQv/giphy.gif" width="1920">
+<img align="center" src="https://github.com/imoliversp/imoliversp/blob/main/thumbnail/main_thumbnail.gif?raw=true" width="1920">
 </p>
 
 <p align="center">
@@ -16,37 +16,37 @@
 
 ## About me
 
-Hi, I'm Oliver. I’m an aspiring Character FX Artist with a strong foundation in CFX and the Animation Industry, currently building experience in Tech Anim through personal projects and professional training.
+Hi, I'm Oliver. I’m an aspiring <strong>Character FX Artist</strong> with a strong foundation in CFX and the Animation Industry, currently building experience in <strong>Technical Animation</strong> through personal projects and professional training.
 
-For most of my career I've worked as a 3D Modeler Artist, and recently I've been working in CFX with Maya and Houdini which is the thing that I am most passionate about.
+For most of my career I've worked as a 3D Modeler Artist, and recently I've been working in CFX with Maya and Houdini, which is what I’m most passionate about.
 
-I specialize in CFX and tool development with Python for the Animation Industry, and I am currently seeking opportunities to apply and further develop these skills.
+I specialize in <strong>CFX</strong> and <strong>Python</strong> tool development focused on creating tools that help both myself and the CFX community. I'm currently seeking opportunities to apply and grow these skills.
 
-Oliver in Numbers:
+<strong>Oliver in Numbers:</strong>
 - 1 Experience in the Feature Animation Film Industry (as 3D Model Artist).
 - 1 Feature (credited), 1 upcoming Trailer, 1 Short Film, 1 upcoming Short Film and several commissions.
 - 1 Time CFX Artist, 4 Times 3D Modeler.
 
-Core Skills:
+<strong>Core Skills:</strong>
 - CFX (Cloth, Hair, Soft Body, polish)
 - Python and MEL scripting
 - 3D Character Modeling
 
-Secondary Skills:
+<strong>Secondary Skills:</strong>
 - 3D Prop Artist, Asset, UV and Texture creation
 - Motion Graphics and Graphic Design
 - Team supervision and Pipeline knowledge, Linux
 
-Software:
+<strong>Software:</strong>
 Proficient in Maya, Houdini, Linux, Substance 3D Painter, Substance Designer, ZBrush, XGen, Quixel Bridge, ShotGrid, Mixamo, Viewport 2.0, Arnold, Adobe Suite, After Effects, Photoshop, Illustrator, Slack, Office Tools, Communication Tools.
 
-I'm currently based in Mexico but I'm open to relocation if an exciting opportunity comes. I'm also NAFTA eligible :D
+I'm currently based in Mexico but I'm open to relocation if an exciting opportunity comes. I'm also <strong>NAFTA</strong> eligible :D
 
 Available for work & collaboration, to start immediately!
 
-Email: oliversp_art@outlook.com
+Email: <i>oliversp_art@outlook.com</i>
 
-Find me anywhere as @imoliversp
+Find me anywhere as <i>@imoliversp</i>
 <br>
 
 ## Check my work
