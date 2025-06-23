@@ -112,5 +112,5 @@ Hope to see you again soon! :D
 </p>
 
 <p align="center">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/189bf827-1699-4f3c-b45e-509d0f35a0db/djzff4z-8caa0f09-eaa1-426e-b75b-a39b5d6ab12b.png/v1/fill/w_1280,h_157/imoliversp_bottompage02_by_imoliversp_djzff4z-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU3IiwicGF0aCI6IlwvZlwvMTg5YmY4MjctMTY5OS00ZjNjLWI0NWUtNTA5ZDBmMzVhMGRiXC9kanpmZjR6LThjYWEwZjA5LWVhYTEtNDI2ZS1iNzViLWEzOWI1ZDZhYjEyYi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5FQNLosaNVJKaflhlwctRL7FDIabX5bFlFKV7df-4lc">
+<img src="https://github.com/imoliversp/contentMedia/blob/main/thumbnails/BottomPage2.png?raw=true">
 </p>
