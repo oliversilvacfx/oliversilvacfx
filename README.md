@@ -3,7 +3,7 @@
 </div>
 
 <p>
-<img align="center" src="https://github.com/imoliversp/contentMedia/blob/main/thumbnails/Render.gif?raw=true" width="1920">
+<img align="center" src="https://github.com/imoliversp/contentMedia/blob/main/thumbnails/main_thumbnail.gif?raw=true" width="1920">
 </p>
 
 <p align="center">
