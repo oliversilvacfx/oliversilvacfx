@@ -43,8 +43,8 @@ Proficient in Maya, Houdini, Linux, Substance 3D Painter, Substance Designer, ZB
 I'm currently based in Mexico but I'm open to relocation if an exciting opportunity comes. I'm also <strong>NAFTA</strong> eligible :D  
 <strong>Available</strong> for work & collaboration, to start <strong>immediately</strong>!
 
-✉️ Email: <i>oliversp_art@outlook.com</i>  
-🌐 Find me anywhere as <i>@imoliversp</i>
+✉️ Email: <i>oliversilvacfx@outlook.com</i>  
+🌐 Find me anywhere as <i>@oliversilvacfx</i>
 <br>
 
 ## 💼 Check my work
