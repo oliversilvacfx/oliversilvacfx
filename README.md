@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I am <a href="https://linktr.ee/imoliversp">Oliver Silva</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
+<h1 align="center">Hi, I am <a href="https://linktr.ee/oliversilvacfx">Oliver Silva</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 </div>
 
 <p>
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linktr.ee/imoliversp"><img alt="Linktree" title="More about me!" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a> 
+  <a href="https://linktr.ee/oliversilvacfx"><img alt="Linktree" title="More about me!" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a> 
   <a href="https://www.linkedin.com/in/oliversilvacfx/"><img alt="LinkedIn" title="Let's connect!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="https://vimeo.com/999652864"><img alt="Vimeo" title="Character FX Demo Reel" src="https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white"/></a> 
   <a href="https://www.imdb.com/name/nm16724126/?ref_=ext_shr_lnk"><img alt="IMDB" title="Check my work in feature film!" src="https://img.shields.io/badge/IMDB-F5C618?style=for-the-badge&logo=imdb&logoColor=black"/></a>
