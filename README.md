@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://linktr.ee/imoliversp"><img alt="Linktree" title="More about me!" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a> 
-  <a href="https://www.linkedin.com/in/imoliversp/"><img alt="LinkedIn" title="Let's connect!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://www.linkedin.com/in/oliversilvacfx/"><img alt="LinkedIn" title="Let's connect!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="https://vimeo.com/999652864"><img alt="Vimeo" title="Character FX Demo Reel" src="https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white"/></a> 
   <a href="https://www.imdb.com/name/nm16724126/?ref_=ext_shr_lnk"><img alt="IMDB" title="Check my work in feature film!" src="https://img.shields.io/badge/IMDB-F5C618?style=for-the-badge&logo=imdb&logoColor=black"/></a>
   <a href="mailto:oliversp_art@outlook.com"><img alt="Email" title="oliversp_art@outlook.com" src="https://img.shields.io/badge/Email-eb4034?style=for-the-badge&logo=emial&logoColor=black"/></a>
@@ -81,10 +81,10 @@ I'm currently based in Mexico but I'm open to relocation if an exciting opportun
 <td width="50%">
 <h3 align="center">LinkedIn</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/imoliversp/" target="_blank"><img src="https://cdna.artstation.com/p/assets/images/images/089/197/214/large/oliver-silva-p-linkthumbnail.jpg?1750286768" width="400" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/oliversilvacfx/" target="_blank"><img src="https://cdna.artstation.com/p/assets/images/images/089/197/214/large/oliver-silva-p-linkthumbnail.jpg?1750286768" width="400" alt="LinkedIn"></a>
 <p>
-<a href="https://www.linkedin.com/in/imoliversp/" target="_blank">
-<a href="https://www.linkedin.com/in/imoliversp/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/oliversilvacfx/" target="_blank">
+<a href="https://www.linkedin.com/in/oliversilvacfx/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 </p>
 <p><strong> Let's connect! </strong></p><p>I try my best to be <strong>active</strong> on LinkedIn, if you want to check my profile, ask a question or just have a chat, send me a text.</p>
 </div>
