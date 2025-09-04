@@ -52,7 +52,7 @@ Junior <strong>Character FX</strong> roles in animated features and stylized gam
 <td width="50%">
 <h3 align="center">Character FX Demo Reel</h3>
 <div align="center">
-<a href="https://vimeo.com/999652864" target="_blank"><img src="https://cdna.artstation.com/p/assets/images/images/091/495/894/large/oliver-silva-p-cfxthumbnail03.jpg?1756947480" width="400" alt="Character FX Demo Reel"></a>
+<a href="https://vimeo.com/999652864" target="_blank"><img src="https://cdna.artstation.com/p/assets/images/images/091/499/086/large/oliver-silva-p-cfxthumbnail03.jpg?1756962107" width="400" alt="Character FX Demo Reel"></a>
 <p>
 <a href="https://vimeo.com/999652864" target="_blank">
 <a href="https://vimeo.com/999652864"><img alt="Vimeo" title="Vimeo" src="https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white"/></a> 
