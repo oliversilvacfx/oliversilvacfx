@@ -53,7 +53,7 @@ I'm currently based in Mexico but I'm open to relocation if an exciting opportun
 <td width="50%">
 <h3 align="center">Character FX Demo Reel</h3>
 <div align="center">
-<a href="https://vimeo.com/999652864" target="_blank"><img src="https://cdna.artstation.com/p/assets/images/images/089/199/856/large/oliver-silva-p-cfxthumbnail.jpg?1750297741" width="400" alt="Character FX Demo Reel"></a>
+<a href="https://vimeo.com/999652864" target="_blank"><img src="https://cdna.artstation.com/p/assets/images/images/091/495/894/large/oliver-silva-p-cfxthumbnail03.jpg?1756947480" width="400" alt="Character FX Demo Reel"></a>
 <p>
 <a href="https://vimeo.com/999652864" target="_blank">
 <a href="https://vimeo.com/999652864"><img alt="Vimeo" title="Vimeo" src="https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white"/></a> 
@@ -66,7 +66,7 @@ I'm currently based in Mexico but I'm open to relocation if an exciting opportun
 <td width="50%">
 <h3 align="center">3D Modeling Demo Reel</h3>
 <div align="center">
-<a href="https://vimeo.com/1007163327" target="_blank"><img src="https://cdnb.artstation.com/p/assets/images/images/089/197/269/large/oliver-silva-p-3dmodthumbnail.jpg?1750286957" width="400" alt="3D Modeling Demo Reel"></a>
+<a href="https://vimeo.com/1007163327" target="_blank"><img src="https://cdnb.artstation.com/p/assets/images/images/091/495/893/large/oliver-silva-p-3dmodthumbnail03.jpg?1756947477" width="400" alt="3D Modeling Demo Reel"></a>
 <p>
 <a href="https://vimeo.com/1007163327" target="_blank">
 <a href="https://vimeo.com/1007163327"><img alt="Vimeo" title="Vimeo" src="https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white"/></a> 
