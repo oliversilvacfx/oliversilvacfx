@@ -10,6 +10,7 @@
   <a href="https://linktr.ee/oliversilvacfx"><img alt="Linktree" title="More about me!" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a> 
   <a href="https://www.linkedin.com/in/oliversilvacfx/"><img alt="LinkedIn" title="Let's connect!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="https://vimeo.com/999652864"><img alt="Vimeo" title="Character FX Demo Reel" src="https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white"/></a> 
+  <a href="https://www.artstation.com/oliversilvacfx"><img alt="ArtStation" title="Oliver Silva ArtStation" src="https://img.shields.io/badge/ArtStation-171717?style=for-the-badge&logo=ArtStation&logoColor=blue"/></a> 
   <a href="https://www.imdb.com/name/nm16724126/?ref_=ext_shr_lnk"><img alt="IMDB" title="Check my work in feature film!" src="https://img.shields.io/badge/IMDB-F5C618?style=for-the-badge&logo=imdb&logoColor=black"/></a>
   <a href="mailto:oliversilvacfx@outlook.com"><img alt="Email" title="oliversilvacfx@outlook.com" src="https://img.shields.io/badge/Email-eb4034?style=for-the-badge&logo=emial&logoColor=black"/></a>
 </p>
@@ -112,5 +113,5 @@ Hope to see you again soon! :D
 </p>
 
 <p align="center">
-<img src="https://github.com/imoliversp/contentMedia/blob/main/thumbnails/BottomPage2.png?raw=true">
+<img src="https://github.com/oliversilvacfx/contentMedia/blob/main/thumbnails/BottomPage3.png">
 </p>
