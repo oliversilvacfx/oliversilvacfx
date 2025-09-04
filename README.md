@@ -7,45 +7,43 @@
 </p>
 
 <p align="center">
-  <a href="https://linktr.ee/oliversilvacfx"><img alt="Linktree" title="More about me!" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a> 
-  <a href="https://www.linkedin.com/in/oliversilvacfx/"><img alt="LinkedIn" title="Let's connect!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  <a href="https://vimeo.com/999652864"><img alt="Vimeo" title="Character FX Demo Reel" src="https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white"/></a> 
-  <a href="https://www.artstation.com/oliversilvacfx"><img alt="ArtStation" title="Oliver Silva ArtStation" src="https://img.shields.io/badge/ArtStation-171717?style=for-the-badge&logo=ArtStation&logoColor=blue"/></a> 
+  <a href="https://linktr.ee/oliversilvacfx"><img alt="Linktree" title="More about me!" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/oliversilvacfx/"><img alt="LinkedIn" title="Let's connect!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="https://www.artstation.com/oliversilvacfx"><img alt="ArtStation" title="Oliver Silva ArtStation" src="https://img.shields.io/badge/ArtStation-171717?style=for-the-badge&logo=ArtStation&logoColor=blue"/></a>
+  <a href="https://vimeo.com/999652864"><img alt="Vimeo" title="Character FX Demo Reel" src="https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white"/></a>
   <a href="https://www.imdb.com/name/nm16724126/?ref_=ext_shr_lnk"><img alt="IMDB" title="Check my work in feature film!" src="https://img.shields.io/badge/IMDB-F5C618?style=for-the-badge&logo=imdb&logoColor=black"/></a>
   <a href="mailto:oliversilvacfx@outlook.com"><img alt="Email" title="oliversilvacfx@outlook.com" src="https://img.shields.io/badge/Email-eb4034?style=for-the-badge&logo=emial&logoColor=black"/></a>
 </p>
 
 ## 🙋‍♂ About me
 
-Hi, I'm Oliver. I’m an aspiring <strong>Character FX Artist</strong> with a strong foundation in CFX and the Animation Industry, currently building experience in <strong>Technical Animation</strong> through personal projects and professional training.
+Hey there! Oli here, I’m an aspiring <strong>Character FX Artist</strong> specializing in <strong>cloth, hair, and soft-body simulations</strong> for animated films. My goal is to create stylized CFX that move with purpose, enhancing story, character emotion, and visual style through <strong>Maya</strong> and <strong>Houdini</strong>.
 
-For most of my career I've worked as a 3D Modeler Artist, and recently I've been working in CFX with Maya and Houdini, which is what I’m most passionate about.
+I’ve contributed to <strong>1 feature film (credited), 1 short film, and multiple upcoming projects</strong> across Character FX, Modeling, and Technical Art. My work spans both indie and professional pipelines, where I bring both precision and play into stylized simulation work.
 
-I specialize in <strong>CFX</strong> and <strong>Python</strong> tool development focused on creating tools that help both myself and the CFX community. I'm currently seeking opportunities to apply and grow these skills.
+👋 <strong>Highlight Projects</strong>
+- 🎬 Piece By Piece (Feature-Film, Focus Features, Universal Pictures - credited).
+- 🍿 Shrooms Aliens and Rock N Roll (Short-Film, CalArts, festival-selected).
+- 👨‍💻 Pilot trailer for animated IP (Freelance CFX, Cahero Atzwars).
 
-👋 <strong>Oliver in Numbers</strong>
-- 🎬 1 Experience in the Feature Animation Film Industry (as 3D Model Artist).
-- 🍿 1 Feature (credited), 1 upcoming Trailer, 1 Short Film, 1 upcoming Short Film and several commissions.
-- 👨‍💻 1 Time CFX Artist, 4 Times 3D Modeler.
+🛠️ <strong>Tools & Tech</strong>
+- 👕 Houdini, Maya, nCloth, Vellum
+- 🐍 Substance 3D, ZBrush, Python & MEL Scripting
+- 👤 XGen, ShotGrid
 
-🦾 <strong>Core Skills</strong>
-- 👕 CFX (Cloth, Hair, Soft Body, polish)
-- 🐍 Python and MEL scripting
-- 👤 3D Character Modeling
+🦾 <strong>Specialities</strong>
+- 🫖 Stylized cloth and hair FX,
+- 🎞️ Soft body interactions, Simulation polish,
+- 🤝Pipeline Collaboration
 
-💪 <strong>Secondary Skills</strong>
-- 🫖 3D Prop Artist, Asset, UV and Texture creation
-- 🎞️ Motion Graphics and Graphic Design
-- 🤝 Team supervision and Pipeline knowledge, Linux
+⚡<strong>Currently open to</strong>
 
-🛠️ <strong>Software</strong>
-Proficient in Maya, Houdini, Linux, Substance 3D Painter, Substance Designer, ZBrush, XGen, Quixel Bridge, ShotGrid, Mixamo, Viewport 2.0, Arnold, Adobe Suite, After Effects, Photoshop, Illustrator, Slack, Office Tools, Communication Tools.
+Junior <strong>Character FX</strong> roles in animated features and stylized game cinematics. Based in Mexico, open to relocation <strong>(NAFTA eligible)</strong> or remote roles in Canada/EU :D
 
-I'm currently based in Mexico but I'm open to relocation if an exciting opportunity comes. I'm also <strong>NAFTA</strong> eligible :D  
-<strong>Available</strong> for work & collaboration, to start <strong>immediately</strong>!
+<strong>Available</strong> for <strong>immediate</strong> collaboration!
 
 ✉️ Email: <i>oliversilvacfx@outlook.com</i>  
-🌐 Find me anywhere as <i>@oliversilvacfx</i>
+🌐 More: <i>https://linktr.ee/oliversilvacfx</i>
 <br>
 
 ## 💼 Check my work
