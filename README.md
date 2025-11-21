@@ -17,28 +17,30 @@
 
 ## 🙋‍♂ About me
 
-Hey there! Oli here, I’m an aspiring <strong>Character FX Artist</strong> specializing in <strong>cloth, hair, and soft-body simulations</strong> for animated films. My goal is to create stylized CFX that move with purpose, enhancing story, character emotion, and visual style through <strong>Maya</strong> and <strong>Houdini</strong>.
+Hey there! Oli here, I'm an aspiring <strong>Character FX Artist</strong> specializing in <strong>cloth, hair, and soft-body simulations</strong> for animated films. My goal is to create stylized CFX that move with purpose, enhancing story, character emotion, and visual style through <strong>Maya</strong> and <strong>Houdini</strong>.
 
-I’ve contributed to <strong>1 feature film (credited), 1 short film, and multiple upcoming projects</strong> across Character FX, Modeling, and Technical Art. My work spans both indie and professional pipelines, where I bring both precision and play into stylized simulation work.
+I've contributed to <strong>1 feature film (credited), 1 short film, and multiple upcoming projects</strong> across Character FX, Modeling, and Technical Art. My work spans both indie and professional pipelines, where I bring both precision and play into stylized simulation work.
 
 👋 <strong>Highlight Projects</strong>
 - 🎬 Piece By Piece (Feature-Film, Focus Features, Universal Pictures - credited).
 - 🍿 Shrooms Aliens and Rock N Roll (Short-Film, CalArts, festival-selected).
-- 👨‍💻 Pilot trailer for animated IP (Freelance CFX, Cahero Atzwars).
+- 👨‍💻 Unannounced animated IP (Freelance CFX, Cahero Atzwars).
 
 🛠️ <strong>Tools & Tech</strong>
-- 👕 Houdini, Maya, nCloth, Vellum
-- 🐍 Substance 3D, ZBrush, Python & MEL Scripting
+- 👕 Houdini, Maya, nCloth, Vellum, Python/MEL
+- 🐍 Substance Painter, ZBrush
 - 👤 XGen, ShotGrid
 
 🦾 <strong>Specialities</strong>
 - 🫖 Stylized cloth and hair FX,
 - 🎞️ Soft body interactions, Simulation polish,
-- 🤝Pipeline Collaboration
+- 🤝 Pipeline Collaboration
 
 ⚡<strong>Currently open to</strong>
 
 Junior <strong>Character FX</strong> roles in animated features and stylized game cinematics. Based in Mexico, open to relocation <strong>(NAFTA eligible)</strong> or remote roles in Canada/EU :D
+
+<i>If I'm not tweaking cloth or trying to convince Vellum to behave, I'm probably watching movies, sketching, or cracking questionable jokes. Thanks for stopping by! :))</i>
 
 <strong>Available</strong> for <strong>immediate</strong> collaboration!
 
@@ -85,7 +87,7 @@ Junior <strong>Character FX</strong> roles in animated features and stylized gam
 <a href="https://www.linkedin.com/in/oliversilvacfx/" target="_blank">
 <a href="https://www.linkedin.com/in/oliversilvacfx/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 </p>
-<p><strong> Let's connect! </strong></p><p>I try my best to be <strong>active</strong> on LinkedIn, if you want to check my profile, ask a question or just have a chat, send me a text.</p>
+<p><strong> Let's connect! </strong></p><p>I try my best to be <strong>active</strong> on LinkedIn, if you want to check my profile, ask a question or just have a chat, drop me a line.</p>
 </div>
                                                                                       
 </td>
