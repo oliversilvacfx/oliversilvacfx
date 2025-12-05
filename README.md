@@ -38,7 +38,7 @@ I've contributed to <strong>1 feature film (credited), 1 short film, and multipl
 
 ⚡<strong>Currently open to</strong>
 
-Junior <strong>Character FX</strong> roles in animated features and stylized game cinematics. Based in Mexico, open to relocation <strong>(NAFTA eligible)</strong> or remote roles in Canada/EU :D
+Junior <strong>Character FX</strong> roles in animated features and stylized game cinematics. Based in Mexico, open to relocation <strong>(CUSMA eligible)</strong> or remote roles in Canada/EU :D
 
 <i>If I'm not tweaking cloth or trying to convince Vellum to behave, I'm probably watching movies, sketching, or cracking questionable jokes. Thanks for stopping by! :))</i>
 
