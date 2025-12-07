@@ -27,7 +27,7 @@ I've contributed to <strong>1 feature film (credited), 1 short film, and multipl
 - 👨‍💻 Unannounced animated IP (Freelance CFX, Cahero Atzwars).
 
 🛠️ <strong>Tools & Tech</strong>
-- 👕 Houdini, Maya, nCloth, Vellum, Python/MEL
+- 👕 Houdini, Maya, nCloth, Vellum, Python/VEX/MEL
 - 🐍 Substance Painter, ZBrush
 - 👤 XGen, ShotGrid
 
