@@ -42,7 +42,7 @@ I've contributed to <strong>1 feature film (credited), 1 short film, and multipl
 
 <i>If I'm not tweaking cloth or trying to convince Vellum to behave, I'm probably watching movies, sketching, or cracking questionable jokes. Thanks for stopping by! :))</i>
 
-<strong>Private Reel</strong> upon request.
+<strong>Private Reel</strong> available upon request.
 
 ✉️ Email: <i>oliversilvacfx@outlook.com</i>  
 🌐 More: <i>https://linktr.ee/oliversilvacfx</i>
