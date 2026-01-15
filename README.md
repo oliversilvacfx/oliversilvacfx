@@ -38,11 +38,11 @@ I've contributed to <strong>1 feature film (credited), 1 short film, and multipl
 
 ⚡<strong>Currently open to</strong>
 
-Junior <strong>Character FX</strong> roles in animated features and stylized game cinematics. Based in Mexico, open to relocation <strong>(CUSMA eligible)</strong> or remote roles in Canada/EU :D
+<strong>Character FX</strong> roles in animated features and stylized game cinematics. Currently based in Mexico, <strong>CUSMA eligible</strong> with a <strong>valid passport until 2032</strong>. Fully <strong>open to relocation/remote</strong> in Canada/EU and <strong>available</strong> to start as soon as possible.
 
 <i>If I'm not tweaking cloth or trying to convince Vellum to behave, I'm probably watching movies, sketching, or cracking questionable jokes. Thanks for stopping by! :))</i>
 
-<strong>Available</strong> for <strong>immediate</strong> collaboration!
+<strong>Private Reel</strong> upon request.
 
 ✉️ Email: <i>oliversilvacfx@outlook.com</i>  
 🌐 More: <i>https://linktr.ee/oliversilvacfx</i>
